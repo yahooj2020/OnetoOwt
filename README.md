@@ -26,4 +26,4 @@
 
 先都分别去整合
 
-[!image](https://github.com/yahooj2020/OnetoOwt/blob/master/OnetoOWT.png)
+![image](https://github.com/yahooj2020/OnetoOwt/blob/master/OnetoOWT.png)
